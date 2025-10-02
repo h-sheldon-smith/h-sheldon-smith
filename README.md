@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m a senior studying CS and I'm currently studying machine learning, software patterns, and cloud fundamentals.
+- 🌱 I’m a senior working towards my B.S. degree in CS and I'm currently studying machine learning, software patterns, and cloud fundamentals.
 <!--
 **h-sheldon-smith/h-sheldon-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
